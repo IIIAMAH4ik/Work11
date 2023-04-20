@@ -63,7 +63,7 @@ public class FilmsTest {
 
 
         String[] expected = {"Film X", "Film IX", "Film VIII", "Film VII", "Film VI",
-                "Film V", "Film IV", "Film III", "Film II", "Film I"};
+                "Film V", "Film IV", "Film III"};
         String[] actual = manager.findLast();
     }
 
